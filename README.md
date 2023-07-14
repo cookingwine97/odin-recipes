@@ -1,0 +1,1 @@
+This is a project creating a simple recipe website. Using basic HTML code and little style, the project will demonstrate HTML understanding.
